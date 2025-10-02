@@ -1,2 +1,2 @@
 # goggle717
-goggle717 -https://gn-math.github.io/gn-math-dontdmca
+goggle717 -https://gn-math.dev
